@@ -89,3 +89,27 @@ nav ul li:hover ul{ display: block; }
     width: 1170px;
 }
 
+.left-banner{
+    float: left;
+    width: 25%;
+    padding: 0px 10px;
+    position: relative;
+}
+
+.right-main-banner{
+    float: right;
+    width: 75%;
+}
+.support{
+    margin: 0 12px;
+    display: table;
+}
+.text-center{
+    display: table;
+    border-bottom: 1px solid #ddd;
+    width: 100%;
+    margin: 15px 0;
+}
+p{
+    margin-bottom: 10px;
+}
